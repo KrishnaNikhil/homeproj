@@ -13,6 +13,7 @@ List<String> objArray = Arrays.asList(s);
       //objArray2.add(3,"notcommon1");
      // objArray.add(0,"common1");
       //objArray.add(1,"common2");
+System.out.println("Nikhil");
       System.out.println("Array elements of array1"+objArray);
       System.out.println("Array elements of array2"+objArray2);
       System.out.println("Array 1 contains String common2?? "
